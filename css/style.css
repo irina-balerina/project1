@@ -3,7 +3,7 @@ body {
  
 }
 .container {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   padding: 0 100px;
   font-weight: 600;
@@ -13,4 +13,11 @@ h1 {
 }
 h2 {
   color: green;
+}
+.balls {
+  display: inline-block;
+  margin-left: 10%;
+}
+.smile {
+  display: inline-block;
 }
